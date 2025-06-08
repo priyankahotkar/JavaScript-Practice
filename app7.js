@@ -10,7 +10,7 @@
 //     }
 // }
 
-let url = "http://universities.hipolabs.com/search?name=";
+let url2 = "http://universities.hipolabs.com/search?name=";
 let btn = document.querySelector("button");
 
 btn.addEventListener("click", async () => {
